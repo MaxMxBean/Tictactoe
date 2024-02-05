@@ -2,7 +2,7 @@
 #with a terrible AI
 #Author: MM
 #Date: 19Oct2023
-print("Welcometo TicTacToe, enter square number to place, e.g. '5'")
+print("Welcome to TicTacToe, enter square number to place, e.g. '5'")
 #print("123\n456\n789")
 
 #Global Variables
